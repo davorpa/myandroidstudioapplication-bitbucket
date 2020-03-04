@@ -14,4 +14,4 @@ Pasos:
     + Default ChangeList
     + Botón Commit + Push ✅
     + Agrega el origin con la url de tu repo Bitbucket. 
-        - https://bitbucket.org/davorpa/myandroidstudioapplicationbitbucket.git
+        - https://bitbucket.org/davorpa/myandroidstudioapplication-bitbucket.git
